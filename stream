@@ -1,0 +1,1 @@
+yt-dlp -f worst https://www.youtube.com/watch?v=Cm1v4bteXbI -o - | ffmpeg -i - -c copy -f mpegts - | ffplay -
