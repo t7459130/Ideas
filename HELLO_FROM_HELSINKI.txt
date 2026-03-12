@@ -1,1 +1,3 @@
 hello
+
+Hello, this is a good file we can just message each other lol. Im gunna make a habit of git pulling everytime i enter the directory to see whats updated. A good start in this directory would be going on crackmes.one and downloading a few for linux and then opening them up in ghidra and try cracking them you usually have to find the secret password or key or reverse the program so you miss the normal jump and it jumps to the password. Its a good place to start with disassembly and reversing. 
