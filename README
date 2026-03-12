@@ -1,1 +1,18 @@
+ssh -T git@github.com
+
+Get to this step where it returns "Hi Username! You've Successfully authenticated, but GitHub does not provide shell access."
+
+then ...
+
+git clone git@github.com:USERNAME/REPOSITORY.git
+
+git add .
+git commit -m "test"
+git push
+
+Upload some files and into the Ideas directory then use the above commands.
+
+
+
+
 GET FFPLAY IN LINUX OR WHATEVER OR VLC THEN URL
