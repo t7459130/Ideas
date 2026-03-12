@@ -1,1 +1,0 @@
-curl --socks5 206.232.0.15:9001 https://check.torproject.org
